@@ -1,0 +1,32 @@
+.footer {
+    position: absolute;
+    width: 317px;
+    height: 64px;
+    left: 116px;
+    top: 760px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.twi {
+    margin-right: 24px;
+    margin-top: 19px;
+    margin-bottom: 20px;
+}
+
+.face {
+    margin-right: 24px;
+    margin-top: 19px;
+    margin-bottom: 20px;
+}
+
+.inst {
+    margin-right: 24px;
+    margin-top: 19px;
+    margin-bottom: 20px;
+}
+
+.git{
+    margin-top: 19px;
+    margin-bottom: 20px;
+}
